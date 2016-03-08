@@ -1,4 +1,4 @@
-# Python 2.7, 3.2, 3.3 & 3.4 App w/ Bureaucrat init support
+# Python 2.7, 3.4 & 3.5 App w/ Bureaucrat init support
 
 This container uses panubo/python which has the latest [Python](http://python.org) versions from source. An empty [virtualenv](https://github.com/pypa/virtualenv) is provided for each Python version.
 
